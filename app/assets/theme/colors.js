@@ -1,0 +1,22 @@
+export default {
+    // primary: '#83b07c',
+    primary: '#9fc997',
+    // primary: '#94e884',
+    secondary: '#7BB26F',
+    accent: '#38A3A5',
+    danger: '#FF0000',
+    success: '#4cc9f0',
+    grey: '#e9e9e9',
+    white: '#ffffff',
+    black: '#000000',
+    /*  */
+    olivine: '#7fbb73',
+    zanah: '#d8ead4',
+    highland: '#6c945c',
+    springRain: '#9fc997',
+    sprout: '#b4d7ac',
+    deYork: '#94c88c',
+    mossGreen: '#acdca4',
+    // de-york: '#8ccc84',
+    // olivine: '#8cbc84',
+}
